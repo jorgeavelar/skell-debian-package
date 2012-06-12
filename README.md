@@ -21,12 +21,12 @@ myapp_0.1.0-stable-ubuntu1204_amd64.deb
 
 Create package
 --------------
-dpkg -b myapp_0.9-stable-ubuntu1204_amd64
+dpkg -b myapp_0.1.0-stable-ubuntu1204_amd64
 
 
 Install package
 ---------------
-dpkg -i myapp_0.9-stable-ubuntu1204_amd64.deb
+dpkg -i myapp_0.1.0-stable-ubuntu1204_amd64.deb
 
 
 Remove package and files
