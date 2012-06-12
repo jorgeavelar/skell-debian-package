@@ -1,0 +1,11 @@
+Section: usr
+Priority: optional
+Homepage: http://mypage.com.br
+Package: myapp
+Version: 0.1.0
+Maintainer: Jorge Avelar <jorgecavelar@gmail.com>
+Architecture: all
+Copyright: copyright
+Changelog: changelog
+Readme: README.Debian
+Description: My first debian pakage. 

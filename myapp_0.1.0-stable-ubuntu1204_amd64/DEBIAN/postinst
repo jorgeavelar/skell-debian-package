@@ -1,0 +1,7 @@
+#!/bin/bash
+############################################################################################################################
+# Author:Jorge Avelar - jorgecavelar@gmail.com                                                                             #
+# Description:                                                                                                             #
+#  This script performs any configuration required by the package, after it was unpacked by the system.                    #
+#  Generally it has interactions with the user, displays informations useful settings or reconfigure any pre-existing file.#
+############################################################################################################################

@@ -1,0 +1,7 @@
+#!/bin/bash
+############################################################################################################################
+# Author:Jorge Avelar - jorgecavelar@gmail.com                                                                             #
+# Description:                                                                                                             #
+#  This script modifies links, remove directories, or files associated with the package.                                   #
+#                                                                                                                          #
+############################################################################################################################

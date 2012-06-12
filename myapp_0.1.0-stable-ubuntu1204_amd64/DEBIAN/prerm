@@ -1,0 +1,7 @@
+#!/bin/bash
+############################################################################################################################
+# Author:Jorge Avelar - jorgecavelar@gmail.com                                                                             #
+# Description:                                                                                                             #
+#  This script typically stops daemons related services package, or perform other procedures that need to be done          #
+#  before the package is removed.                                                                                          #
+############################################################################################################################

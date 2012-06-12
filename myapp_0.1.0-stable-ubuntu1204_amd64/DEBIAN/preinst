@@ -1,0 +1,7 @@
+#!/bin/bash
+############################################################################################################################
+# Author:Jorge Avelar - jorgecavelar@gmail.com                                                                             #
+# Description:                                                                                                             #
+#  This script is executed before the Debian archive (. Deb) be unpacked by the system.                                    #
+#  Generally used to stop this script and services, as in the case of packages that need to be updated.                    #
+############################################################################################################################
